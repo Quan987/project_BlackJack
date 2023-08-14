@@ -12,7 +12,7 @@
 
 ## Installation
 
-- Clone the Repository: git clone https://github.com/yourusername/project-blackjack.git
+- Clone the Repository: git clone https://github.com/Quan987/project_BlackJack
 - Download the file: Please download the file function.py, image.py, main.py 
 
 ## Game Rules
